@@ -1,2 +1,3 @@
-#My Shop
+#MyShop
+
 A website to advertise services.
